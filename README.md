@@ -1,13 +1,11 @@
 <h1 align="center">Hi everybody 👋, I'm Sorin Mihailescu</h1>
-<h3 align="center">A passionate Software developer from Romania.</h3>
+<h3 align="center">Entrepreneur & Software developer </h3>
 
-- 🔭 I’m currently working on **a music recommendation system**
+- 🔭 Co-founder of Trippin**
 
 - 👨‍💻 You can see my portofolio at : [https://mihailescusorin.site/](https://mihailescusorin.site/)
 
-- 📫 How to reach me **sorin.mihailescu@outlook.com**
-
-- ⚡ Fun fact **I'm also an artist**
+- 📫 How to reach me **sorinmihailescu@trippin.audio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
