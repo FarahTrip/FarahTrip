@@ -1,4 +1,4 @@
-<h1 align="center">Hi everybody 👋, I'm Sorin Mihailescu</h1>
+<h1 align="center">Sorin Mihailescu,
 <h3 align="center">Entrepreneur & Software developer </h3>
 
 - 🔭 Co-founder of Trippin**
