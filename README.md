@@ -2,9 +2,7 @@
 <h3 align="center">Entrepreneur & Software developer </h3>
 
 - 🔭 Co-founder of Trippin**
-
-- 👨‍💻 You can see my portofolio at : [https://mihailescusorin.site/](https://mihailescusorin.site/)
-
+  
 - 📫 How to reach me **sorinmihailescu@trippin.audio**
 
 <h3 align="left">Connect with me:</h3>
