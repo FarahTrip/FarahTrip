@@ -1,9 +1,7 @@
 <h1 align="center">Sorin Mihailescu,
 <h3 align="center">Entrepreneur & Software developer </h3>
-
-- 🔭 Co-founder of Trippin**
   
-- 📫 How to reach me **sorinmihailescu@trippin.audio**
+- 📫 How to reach me **sorin@scarabyte.digital**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
