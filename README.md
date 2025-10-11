@@ -1,14 +1,56 @@
-<h1 align="center">Sorin Mihailescu,
-<h3 align="center">Entrepreneur & Software developer </h3>
-  
-- 📫 How to reach me **sorin@scarabyte.digital**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1600&q=80" alt="Modern workspace with a laptop and notes" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Sorin Mihailescu</h1>
+<h3 align="center">Engineer | Founder | Systems thinker</h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Farahtrip"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Farahtrip" /></a></p><br><br>
+<p align="center">
+  I build automation-first products where data pipelines, AI copilots, and sharp user experience come together.
+</p>
+
+---
+
+### What I ship
+- Architect backends in Python and TypeScript, bringing Go into the mix for high-concurrency paths.
+- Orchestrate data platforms on PostgreSQL and Elasticsearch with vector search layers for retrieval-augmented systems.
+- Craft AI-first workflows: LLM tools, LangGraph agents, and production-grade prompt pipelines baked into real customer journeys.
+- Harden delivery with AWS-native CI/CD, Dockerized services, and observability that catches regressions before users do.
+
+### Engineering DNA
+| Languages | Data & AI | Cloud & Ops |
+| --- | --- | --- |
+| Python, TypeScript, JavaScript, Go (learning) | PostgreSQL, Elasticsearch, pgvector, Pinecone, OpenAI | Docker, AWS (ECS, Lambda, Step Functions, Batch), Terraform, GitHub Actions |
+
+| Automation | Front of House | Developer Velocity |
+| --- | --- | --- |
+| Celery, distributed schedulers, event-driven queues | React, Next.js, Tailwind CSS, Storybook | Cursor, LangChain, LangGraph, FastAPI, NestJS, Playwright |
+
+### Automation and AI playbook
+- Blend deterministic services with LLM-powered reasoning for assistants that are precise, auditable, and fast.
+- Stage data pipelines that hydrate vector databases and analytics feeds without breaking SLAs.
+- Ship infrastructure as code, keeping environments reproducible from the first docker-compose up to scaled clusters.
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1350&q=80" alt="Monitors showing code and dashboards" width="85%" />
+</p>
+
+### Currently exploring
+- Writing Go utilities that plug into existing job schedulers.
+- Turning LangGraph prototypes into production-ready assistants.
+- Expanding AWS pipeline blueprints to cover hybrid inference workloads.
+
+### How we can work together
+- **Product labs**: Turn ambiguous ideas into scoped, shippable roadmaps that respect both UX and ops.
+- **Fractional CTO**: Stand up pipelines, automate releases, and mentor teams on modern data + AI skills.
+- **Deep dives**: Need help with a tricky Celery workflow, a broken Elasticsearch cluster, or vector search relevance? I love solving those.
+
+### Connect
+- Email: <a href="mailto:sorin@scarabyte.digital">sorin@scarabyte.digital</a>
+- Build logs & insights: <a href="https://www.buymeacoffee.com/Farahtrip/posts">Buy Me a Coffee updates</a>
+
+<p>
+  <a href="https://www.buymeacoffee.com/Farahtrip">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="50" width="210" />
+  </a>
+</p>
