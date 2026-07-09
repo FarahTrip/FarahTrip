@@ -1,7 +1,7 @@
-<!-- ====================== HEADER ====================== -->
-<a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c9a7&height=230&section=header&text=Sorin%20Mihailescu&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Founder%20%C2%B7%20Engineer%20%C2%B7%20Ships%20companies%2C%20not%20just%20code&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
-</a>
+<!-- ====================== HEADER (bespoke animated SVG) ====================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farahtrip/farahtrip/main/assets/hero.svg" alt="Sorin Mihailescu — Founder · Engineer · Ships companies, not just code" width="100%" />
+</p>
 
 <!-- ====================== TYPING INTRO ====================== -->
 <p align="center">
@@ -67,6 +67,26 @@
 - **Own the whole stack.** Data model to deploy pipeline to the pixel a user taps. No handoffs to hide behind.
 - **AI where it earns its keep.** Deterministic services for the spine; LLM reasoning only where it's precise, auditable, and fast.
 - **Infra as code, always.** Reproducible from the first `docker-compose up` to scaled clusters.
+
+<details>
+  <summary><b>🔬 Peek under the hood — how a Sorin build actually ships</b></summary>
+  <br/>
+
+  ```text
+  idea ──▶ scope the thin slice that proves value
+       ──▶ model the data first (schema is destiny)
+       ──▶ deterministic core + LLM reasoning only where it earns its keep
+       ──▶ ship behind a flag, instrument everything
+       ──▶ read the telemetry, cut what nobody uses, double down on what they love
+       ──▶ harden: tests, IaC, CI/CD, observability
+       ──▶ repeat until it's a company
+  ```
+
+  - **RAG that doesn't hallucinate its way into support tickets** — pgvector + reranking + strict grounding.
+  - **Agents with guardrails** — LangGraph state machines over free-roaming prompt spaghetti.
+  - **Pipelines that respect SLAs** — Celery + event queues that hydrate vector stores without melting Postgres.
+  - **Delivery you can sleep through** — Dockerized services, Terraform, GitHub Actions, alerts that fire *before* users notice.
+</details>
 
 <!-- ====================== TECH STACK ====================== -->
 ### 🧬 Engineering DNA
