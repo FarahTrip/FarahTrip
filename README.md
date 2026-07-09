@@ -1,26 +1,26 @@
-<!-- ====================== HEADER ====================== -->
-<a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c9a7&height=230&section=header&text=Sorin%20Mihailescu&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Founder%20%C2%B7%20Engineer%20%C2%B7%20Ships%20companies%2C%20not%20just%20code&descAlignY=58&descSize=18&animation=fadeIn" alt="header" width="100%" />
-</a>
+<!-- ====================== HEADER (bespoke animated SVG) ====================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/farahtrip/farahtrip/main/assets/hero.svg" alt="Sorin Mihailescu — Founder · Engineer · Ships companies, not just code" width="100%" />
+</p>
 
 <!-- ====================== TYPING INTRO ====================== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=2575FC&center=true&vCenter=true&width=840&lines=I+don't+just+write+code.+I+ship+companies.;0+%E2%86%92+1%2C+then+1+%E2%86%92+scale.;Artyphonic+%E2%80%94+your+studio%2C+online.;Traveleon+%E2%80%94+plan+a+whole+trip+in+plain+English.;AI+copilots+%C2%B7+data+pipelines+%C2%B7+ruthless+UX." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=FF6A1A&center=true&vCenter=true&width=840&lines=I+don't+just+write+code.+I+ship+companies.;0+%E2%86%92+1%2C+then+1+%E2%86%92+scale.;Artyphonic+%E2%80%94+your+studio%2C+online.;Traveleon+%E2%80%94+plan+a+whole+trip+in+plain+English.;AI+copilots+%C2%B7+data+pipelines+%C2%B7+ruthless+UX." alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ====================== BADGES / SOCIAL ====================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=farahtrip&label=Profile%20views&color=2575fc&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=farahtrip&label=Profile%20views&color=ff6a1a&style=for-the-badge" alt="profile views" />
   <a href="https://artyphonic.com">
-    <img src="https://img.shields.io/badge/Artyphonic-Live-00c9a7?style=for-the-badge&logo=soundcloud&logoColor=white" alt="artyphonic" />
+    <img src="https://img.shields.io/badge/Artyphonic-Live-ff6a1a?style=for-the-badge&logo=soundcloud&logoColor=white" alt="artyphonic" />
   </a>
   <a href="https://traveleon.ai">
-    <img src="https://img.shields.io/badge/Traveleon-Live-2575fc?style=for-the-badge&logo=googlechrome&logoColor=white" alt="traveleon" />
+    <img src="https://img.shields.io/badge/Traveleon-Live-ffb020?style=for-the-badge&logo=googlechrome&logoColor=black" alt="traveleon" />
   </a>
   <a href="mailto:sorin@scarabytes.com">
-    <img src="https://img.shields.io/badge/sorin%40scarabytes.com-6a11cb?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/sorin%40scarabytes.com-ff3d00?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" />
   </a>
 </p>
 
@@ -68,6 +68,26 @@
 - **AI where it earns its keep.** Deterministic services for the spine; LLM reasoning only where it's precise, auditable, and fast.
 - **Infra as code, always.** Reproducible from the first `docker-compose up` to scaled clusters.
 
+<details>
+  <summary><b>🔬 Peek under the hood — how a Sorin build actually ships</b></summary>
+  <br/>
+
+  ```text
+  idea ──▶ scope the thin slice that proves value
+       ──▶ model the data first (schema is destiny)
+       ──▶ deterministic core + LLM reasoning only where it earns its keep
+       ──▶ ship behind a flag, instrument everything
+       ──▶ read the telemetry, cut what nobody uses, double down on what they love
+       ──▶ harden: tests, IaC, CI/CD, observability
+       ──▶ repeat until it's a company
+  ```
+
+  - **RAG that doesn't hallucinate its way into support tickets** — pgvector + reranking + strict grounding.
+  - **Agents with guardrails** — LangGraph state machines over free-roaming prompt spaghetti.
+  - **Pipelines that respect SLAs** — Celery + event queues that hydrate vector stores without melting Postgres.
+  - **Delivery you can sleep through** — Dockerized services, Terraform, GitHub Actions, alerts that fire *before* users notice.
+</details>
+
 <!-- ====================== TECH STACK ====================== -->
 ### 🧬 Engineering DNA
 
@@ -108,21 +128,21 @@
 ### 📊 GitHub in motion
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farahtrip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2575fc&icon_color=00c9a7" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahtrip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2575fc&langs_count=8" alt="top langs" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farahtrip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0a08&title_color=ff6a1a&icon_color=ffb020&text_color=e6ddd0&ring_color=ff6a1a" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahtrip&layout=compact&hide_border=true&bg_color=0d0a08&title_color=ff6a1a&text_color=e6ddd0&langs_count=8" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahtrip&theme=tokyonight&hide_border=true&background=0D1117&ring=2575fc&fire=00c9a7&currStreakLabel=2575fc" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahtrip&hide_border=true&background=0d0a08&stroke=3a2716&ring=ff6a1a&fire=ff6a1a&currStreakNum=f5ece0&sideNums=f5ece0&currStreakLabel=ffb020&sideLabels=ff8a2a&dates=b08a5a" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farahtrip&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farahtrip&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
 <!-- ====================== ACTIVITY GRAPH ====================== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farahtrip&theme=tokyo-night&bg_color=0D1117&color=2575fc&line=00c9a7&point=ffffff&hide_border=true&area=true" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farahtrip&bg_color=0d0a08&color=ff8a2a&line=ff6a1a&point=ffffff&title_color=ff6a1a&hide_border=true&area=true" alt="activity graph" width="100%" />
 </p>
 
 <!-- ====================== CONTRIBUTION SNAKE ====================== -->
@@ -140,7 +160,7 @@
 
 <!-- ====================== QUOTE ====================== -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="dev quote" />
 </p>
 
 <!-- ====================== FOOTER ====================== -->
@@ -151,4 +171,4 @@
   <a href="https://www.buymeacoffee.com/Farahtrip/posts">☕ build logs</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2575fc,100:6a11cb&height=120&section=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d00,50:ff6a1a,100:ffc24b&height=120&section=footer" alt="footer" width="100%" />
