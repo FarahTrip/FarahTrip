@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-label="Sorin Mihailescu — Founder and Engineer">
   <defs>
-    <!-- Moving brand gradient for the title -->
+    <!-- Moving Artyphonic-orange gradient for the title -->
     <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#6a11cb">
-        <animate attributeName="stop-color" values="#6a11cb;#2575fc;#00c9a7;#6a11cb" dur="8s" repeatCount="indefinite" />
+      <stop offset="0" stop-color="#ff5a1f">
+        <animate attributeName="stop-color" values="#ff5a1f;#ff8a2a;#ffc24b;#ff5a1f" dur="8s" repeatCount="indefinite" />
       </stop>
-      <stop offset="0.5" stop-color="#2575fc">
-        <animate attributeName="stop-color" values="#2575fc;#00c9a7;#6a11cb;#2575fc" dur="8s" repeatCount="indefinite" />
+      <stop offset="0.5" stop-color="#ff8a2a">
+        <animate attributeName="stop-color" values="#ff8a2a;#ffc24b;#ff5a1f;#ff8a2a" dur="8s" repeatCount="indefinite" />
       </stop>
-      <stop offset="1" stop-color="#00c9a7">
-        <animate attributeName="stop-color" values="#00c9a7;#6a11cb;#2575fc;#00c9a7" dur="8s" repeatCount="indefinite" />
+      <stop offset="1" stop-color="#ffc24b">
+        <animate attributeName="stop-color" values="#ffc24b;#ff5a1f;#ff8a2a;#ffc24b" dur="8s" repeatCount="indefinite" />
       </stop>
     </linearGradient>
 
-    <!-- Glow blobs -->
+    <!-- Warm glow blobs -->
     <radialGradient id="blobA" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#2575fc" stop-opacity="0.55" />
-      <stop offset="1" stop-color="#2575fc" stop-opacity="0" />
+      <stop offset="0" stop-color="#ff6a1a" stop-opacity="0.55" />
+      <stop offset="1" stop-color="#ff6a1a" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="blobB" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#00c9a7" stop-opacity="0.5" />
-      <stop offset="1" stop-color="#00c9a7" stop-opacity="0" />
+      <stop offset="0" stop-color="#ffb020" stop-opacity="0.5" />
+      <stop offset="1" stop-color="#ffb020" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="blobC" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#6a11cb" stop-opacity="0.5" />
-      <stop offset="1" stop-color="#6a11cb" stop-opacity="0" />
+      <stop offset="0" stop-color="#ff3d00" stop-opacity="0.45" />
+      <stop offset="1" stop-color="#ff3d00" stop-opacity="0" />
     </radialGradient>
 
     <!-- Shimmer sweep gradient -->
     <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0" />
-      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.85" />
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="0" stop-color="#fff3e6" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#fff3e6" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#fff3e6" stop-opacity="0" />
     </linearGradient>
 
     <!-- Reveal mask for shimmer confined to the title -->
@@ -44,8 +44,8 @@
     </filter>
   </defs>
 
-  <!-- Backdrop -->
-  <rect width="1280" height="360" rx="20" fill="#0d1117" />
+  <!-- Warm backdrop -->
+  <rect width="1280" height="360" rx="20" fill="#0d0a08" />
 
   <!-- Animated glow blobs -->
   <g filter="url(#soft)">
@@ -60,16 +60,16 @@
     </circle>
   </g>
 
-  <!-- Subtle grid -->
-  <g stroke="#1b2230" stroke-width="1" opacity="0.6">
+  <!-- Subtle warm grid -->
+  <g stroke="#241a12" stroke-width="1" opacity="0.7">
     <line x1="0" y1="90" x2="1280" y2="90" />
     <line x1="0" y1="180" x2="1280" y2="180" />
     <line x1="0" y1="270" x2="1280" y2="270" />
   </g>
-  <rect width="1280" height="360" rx="20" fill="none" stroke="#222c3c" stroke-width="1.5" />
+  <rect width="1280" height="360" rx="20" fill="none" stroke="#3a2716" stroke-width="1.5" />
 
   <!-- Eyebrow -->
-  <text x="82" y="86" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="18" letter-spacing="6" fill="#00c9a7">FOUNDER &#183; ENGINEER</text>
+  <text x="82" y="86" font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="18" letter-spacing="6" fill="#ff8a2a">FOUNDER &#183; ENGINEER</text>
 
   <!-- Title -->
   <text x="80" y="176" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="82" font-weight="800" fill="url(#brand)">Sorin Mihailescu</text>
@@ -82,26 +82,26 @@
   </g>
 
   <!-- Subtitle -->
-  <text x="82" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#c9d4e3">Ships companies, not just code.</text>
+  <text x="82" y="222" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#e6ddd0">Ships companies, not just code.</text>
 
   <!-- Product chips -->
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">
     <g transform="translate(82,258)">
-      <rect width="132" height="34" rx="17" fill="#0f1830" stroke="#2575fc" stroke-width="1.3" />
-      <circle cx="20" cy="17" r="4.5" fill="#00c9a7" />
-      <text x="34" y="23" fill="#e6edf5">Artyphonic</text>
+      <rect width="132" height="34" rx="17" fill="#1a1109" stroke="#ff6a1a" stroke-width="1.4" />
+      <circle cx="20" cy="17" r="4.5" fill="#ffb020" />
+      <text x="34" y="23" fill="#f5ece0">Artyphonic</text>
     </g>
     <g transform="translate(228,258)">
-      <rect width="126" height="34" rx="17" fill="#0f1830" stroke="#00c9a7" stroke-width="1.3" />
-      <circle cx="20" cy="17" r="4.5" fill="#2575fc" />
-      <text x="34" y="23" fill="#e6edf5">Traveleon</text>
+      <rect width="126" height="34" rx="17" fill="#1a1109" stroke="#ffb020" stroke-width="1.4" />
+      <circle cx="20" cy="17" r="4.5" fill="#ff6a1a" />
+      <text x="34" y="23" fill="#f5ece0">Traveleon</text>
     </g>
   </g>
 
   <!-- Terminal line with blinking cursor -->
   <g font-family="'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="20">
-    <text x="82" y="320" fill="#7d8aa0">$ <tspan fill="#c9d4e3">building the future, one commit at a time</tspan></text>
-    <rect x="516" y="304" width="11" height="22" fill="#00c9a7">
+    <text x="82" y="320" fill="#b08a5a">$ <tspan fill="#e6ddd0">building the future, one commit at a time</tspan></text>
+    <rect x="516" y="304" width="11" height="22" fill="#ff8a2a">
       <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite" />
     </rect>
   </g>
